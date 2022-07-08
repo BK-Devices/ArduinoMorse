@@ -1,0 +1,32 @@
+ Gsm based two door security alarm system
+
+Project requirements
+1] 1 x Morse Code Interpreter circuit
+2] 1 x 2.1 x 5.5 mm DC Male jacked 5V supply or adapter
+3] 1 x Teligraph Key
+4] 1 x FTDI232-RL USb to TTL Converter
+5] 1 x Mini USB Cable
+6] 1 x Wooden Block
+
+Circuit requirements
+1] 1 x 16 x 2 Lcd display
+2] 1 x Atmega328P
+3] 1 x 28 pin ic base
+4] 1 x 16 mhz crystal oscillator
+5] 1 x 5v Voltage regulator
+6] 1 x 4 pin mini tactile switch
+7] 1 x 2 pin RMC connector
+8] 1 x 5V Pcb mount Buzzer
+9] 1 x 10K Variable resistor
+10] 4 x 1/4 W Resistors (1 x 10R-47R, 2 x 220R, 1 x 10K)
+11] 7 x Ceramic Capacitors (2 x 22pf, 3 x 104pf)
+12] 2 x Capactors
+13] 1 x 2.1 x 5.5 mm DC female pcb mount socket
+14] 2 x 5mm Led (1 x Red, 1 x Yellow)
+15] 1 x 3 pin mini slide switch
+16] 1 x Big limit switch
+17] 1 x Small limit switch
+18] 1 x Shunt jumper pin
+19] Male and Female header pins
+20] 2 x 1" m3 nuts
+21] 4 x screws
