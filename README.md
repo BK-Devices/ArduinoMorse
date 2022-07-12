@@ -1,6 +1,6 @@
-Python Morse
+Arduino Morse
 =============
-This code has made as a excitement to do same project of 'MORSE CODE INTERPRETER' in different coding language.
+The name of this project is MORSE CODE INTERPRETER.
 
 **Please feel free to use the Issues feature of GitHub if you run into problems or have suggestions for important features to implement. This is the best way to get in touch.**
 
@@ -8,13 +8,9 @@ Thanks For Your Support!
 ------------------------
 
 
-Requirements and Setup
+Requirements
 ----------------------
-For running this code you need - 
-
-1] Python 3
-
-2] Following Libraries
+Requirement of this project is given in the file "Requirement.txt". 
 
 
 Library Installation
