@@ -13,21 +13,13 @@ Requirements
 Requirement of this project is given in the file "Requirement.txt". 
 
 
-Library Installation
----------------------
-For Running this code on your computer you need to install python libraries as following -
-
-1] pynput
-
-2] colorama
-
-3] windsound
-
-
-
 Further Details
 ---------------
 In this code we have set four different modes. Each mode having different functions & the fuctions of each mode we have given below.
+
+
+Code Modes
+--------------
 
 
 Code Modes
